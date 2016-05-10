@@ -1,6 +1,5 @@
 # Knapsack-Probelm
 The Assignment:
-For this programming assignment, you will be writing a program to solve the knapsack problem (defined below). You may work on this program with a partner, if you wish. You can use Java, C++, or Erlang for this program; if you wish to use a different language, let me know. Submit your work electronically via the Moodle site - please submit only the code files. There is an opportunity for extra-credit on this assignment (see below).
 
 Knapsack Problem:
 Mathematically speaking, the knapsack problem is as follows: 
